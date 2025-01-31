@@ -77,12 +77,6 @@ I'm a **Frontend Developer** specializing in **React.js**, based in Banha, Qalyu
 
 ---
 
-## 🌍 Languages
-- Arabic (Native)
-- English (Good)
-
----
-
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
 
