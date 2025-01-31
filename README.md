@@ -30,7 +30,7 @@
 ## 🚀 Projects
 
 ### **1. E-commerce Application**
-- **Tech Stack**: React.js, Context API, TailwindCSS, Axios.
+- **Tech Stack**: React.js, Context API, Bootstrap, Axios.
 - **Description**: Designed and developed a fully functional e-commerce app with product management and payment processing.
 - **Features**: Responsive design, interactive UI.
 
@@ -55,6 +55,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-38B2AC?style=for-the-badge&logo=Bootstrap-css&logoColor=white)
 
 ### **State Management**
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
