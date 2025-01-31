@@ -37,7 +37,7 @@ I'm a **Frontend Developer** specializing in **React.js**, based in Banha, Qalyu
 - **Description**: Designed and developed a fully functional e-commerce app with product management and payment processing.
 - **Features**: Responsive design, interactive UI.
 
-![E-commerce Project]([https://via.placeholder.com/600x400](https://ahmedebrahem0.github.io/e-commerce/)) <!-- Replace with your project image -->
+![E-commerce Project]((https://ahmedebrahem0.github.io/e-commerce/)) <!-- Replace with your project image -->
 
 ---
 
