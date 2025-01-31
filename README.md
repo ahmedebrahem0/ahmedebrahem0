@@ -25,15 +25,7 @@ I'm a **Frontend Developer** specializing in **React.js**, based in Banha, Qalyu
 
 ## 🚀 Projects
 
-### **1. Breast Cancer Awareness Platform**
-- **Tech Stack**: React.js, API Integration, React-Toastify, TailwindCSS.
-- **Description**: Built a platform to raise awareness about breast cancer, featuring live medical data via API integration.
-- **Features**: User dashboard, interactive notifications, secure authentication.
-  
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedebrahem0.github.io/BreastCancerAwareness/)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedebrahem0/BreastCancerAwareness)
-
-### **2. E-commerce Application**
+### **1. E-commerce Application**
 - **Tech Stack**: React.js, Context API, TailwindCSS, Axios.
 - **Description**: Designed and developed a fully functional e-commerce app with product management and payment processing.
 - **Features**: Responsive design, interactive UI.
@@ -41,6 +33,15 @@ I'm a **Frontend Developer** specializing in **React.js**, based in Banha, Qalyu
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedebrahem0.github.io/e-commerce/)
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedebrahem0/e-commerce)
 ---
+
+### **2. Breast Cancer Awareness Platform**
+- **Tech Stack**: React.js, API Integration, React-Toastify, TailwindCSS.
+- **Description**: Built a platform to raise awareness about breast cancer, featuring live medical data via API integration.
+- **Features**: User dashboard, interactive notifications, secure authentication.
+  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedebrahem0.github.io/BreastCancerAwareness/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedebrahem0/BreastCancerAwareness)
+
 
 ## 💡 Technical Skills
 
