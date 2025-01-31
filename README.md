@@ -59,6 +59,7 @@
 
 ### **State Management**
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### **Tools**
@@ -69,6 +70,7 @@
 
 ### **API Integration**
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Fetch API](https://img.shields.io/badge/Fetch-2396F3?style=for-the-badge&logo=javascript&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful_API-000000?style=for-the-badge&logo=api&logoColor=white)
 
 ---
