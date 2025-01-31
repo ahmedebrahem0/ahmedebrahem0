@@ -89,8 +89,7 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedebrahem0&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedebrahem0&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmedebrahem0&theme=dark&hide_border=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedebrahem0&show_icons=true&theme=dark)
 
 
 ---
