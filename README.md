@@ -8,7 +8,7 @@ I'm a **Frontend Developer** specializing in **React.js**, based in Banha, Qalyu
 - 📧 Email: [ahmed.ebrahem.ebdelazem@gmail.com](mailto:ahmed.ebrahem.ebdelazem@gmail.com)
 - 📞 Phone: +20 127 735 1598
 - 💼 LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/your-profile)
-- 🌐 GitHub: [My GitHub Profile]([https://github.com/your-username](https://github.com/ahmedebrahem0))
+- 🌐 GitHub: [My GitHub Profile]([https://github.com/ahmedebrahem0](https://github.com/ahmedebrahem0))
 
 ---
 
