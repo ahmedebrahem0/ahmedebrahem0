@@ -29,8 +29,8 @@ I'm a **Frontend Developer** specializing in **React.js**, based in Banha, Qalyu
 - **Tech Stack**: React.js, API Integration, React-Toastify, TailwindCSS.
 - **Description**: Built a platform to raise awareness about breast cancer, featuring live medical data via API integration.
 - **Features**: User dashboard, interactive notifications, secure authentication.
-
-![Breast Cancer Project](https://ahmedebrahem0.github.io/BreastCancerAwareness/) <!-- Replace with your project image -->
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)]([https://ahmedebrahem0.github.io/e-commerce/](https://ahmedebrahem0.github.io/BreastCancerAwareness/))
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedebrahem0/BreastCancerAwareness)
 
 ### **2. E-commerce Application**
 - **Tech Stack**: React.js, Context API, TailwindCSS, Axios.
