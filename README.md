@@ -1,15 +1,45 @@
-<h1 align="center">Hi I'm Ahmed </h1> 
-<p align="center"> 
-<a href="https://twitter.com/mohamed_abusrea"><img src="https://img.shields.10/badge/twitter-231FA1F1?style=flat&logo=twitter&logoColor=white"/></a> 
-<a href="https://www.linkedin.com/in/mohamedabusrea"><img src="https://img.shields.io/badge/linkedin-23017785?style=flat&logo=linkedin&logoColor=white"/></a> 
-<a href="https://www.youtube.com/c/mohamedabus rea"><img src="https://img.shields.io/badge/youtube-23FF0000?style=flat&logo=youtube&logoColor=white"/></a> 
-<a href="https://www.instagram.com/mohamed_abusrea"><img src="https://img.shields.io/badge/instagram-23E4415F?style=flat&logo=instagram&logoColor=white"/></a> 
-</p> 
-<img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-ing.png" align="right" width="25%"/> 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase. 
-I'm a software developer (@Deliveryhero](https://www.deliveryhero.com/) in Berlin, Germany 
-I have 2 live apps: 
-[Quran-tab (chrome extension)(https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd) 
-Wazaker App (Android version)(https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE), (105 version] (https://apps.apple.com/app/apple-
-store/id1453500014)) 
-Ask me about ReactJs and Frontend
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
+I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+
+**About me**
+
+- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
+
+- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
