@@ -87,8 +87,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
-
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AhmedEbrahem99&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
 
 ---
