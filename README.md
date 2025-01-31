@@ -37,8 +37,8 @@ I'm a **Frontend Developer** specializing in **React.js**, based in Banha, Qalyu
 - **Description**: Designed and developed a fully functional e-commerce app with product management and payment processing.
 - **Features**: Responsive design, interactive UI.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-project.vercel.app](https://ahmedebrahem0.github.io/e-commerce/))
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/your-project-repo)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedebrahem0.github.io/e-commerce/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedebrahem0/e-commerce)
 ---
 
 ## 💡 Technical Skills
