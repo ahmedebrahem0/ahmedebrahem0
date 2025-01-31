@@ -30,14 +30,14 @@ I'm a **Frontend Developer** specializing in **React.js**, based in Banha, Qalyu
 - **Description**: Built a platform to raise awareness about breast cancer, featuring live medical data via API integration.
 - **Features**: User dashboard, interactive notifications, secure authentication.
 
-![Breast Cancer Project](https://via.placeholder.com/600x400) <!-- Replace with your project image -->
+![Breast Cancer Project](https://ahmedebrahem0.github.io/BreastCancerAwareness/) <!-- Replace with your project image -->
 
 ### **2. E-commerce Application**
 - **Tech Stack**: React.js, Context API, TailwindCSS, Axios.
 - **Description**: Designed and developed a fully functional e-commerce app with product management and payment processing.
 - **Features**: Responsive design, interactive UI.
 
-![E-commerce Project](https://via.placeholder.com/600x400) <!-- Replace with your project image -->
+![E-commerce Project]([https://via.placeholder.com/600x400](https://ahmedebrahem0.github.io/e-commerce/)) <!-- Replace with your project image -->
 
 ---
 
