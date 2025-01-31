@@ -1,5 +1,9 @@
 # Hi there, I'm Ahmed Ebrahem! 👋
 
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
+</p>
+
 I'm a **Frontend Developer** specializing in **React.js**, based in Banha, Qalyubia, Egypt. I love building interactive and responsive web applications using modern technologies like **React**, **TailwindCSS**, and **Redux**. I have experience in state management using **Context API** and **Redux**, as well as API integration using **Axios**.
 
 ---
