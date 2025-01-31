@@ -1,45 +1,101 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+# Hi there, I'm Ahmed Ebrahem! 👋
 
-<br />
+I'm a **Frontend Developer** specializing in **React.js**, based in Banha, Qalyubia, Egypt. I love building interactive and responsive web applications using modern technologies like **React**, **TailwindCSS**, and **Redux**. I have experience in state management using **Context API** and **Redux**, as well as API integration using **Axios**.
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+---
 
-**About me**
+## 📌 Contact Information
+- 📧 Email: [ahmed.ebrahem.ebdelazem@gmail.com](mailto:ahmed.ebrahem.ebdelazem@gmail.com)
+- 📞 Phone: +20 127 735 1598
+- 💼 LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/your-profile)
+- 🌐 GitHub: [My GitHub Profile](https://github.com/your-username)
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+---
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+## 💻 Work Experience
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+### **Frontend Developer**
+#### **Route Academy | Banha**
+- Developed a full-stack e-commerce website using **React.js**, integrating APIs for product management, user authentication, and payment processing.
+- Used **Axios** and **Postman** for API testing and debugging, ensuring seamless data flow between frontend and backend.
+- Implemented state management using **Context API** and **Redux** for efficient application performance.
+- Enhanced user experience by integrating animation libraries and validation mechanisms.
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+---
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+## 🚀 Projects
 
+### **1. Breast Cancer Awareness Platform**
+- **Tech Stack**: React.js, API Integration, React-Toastify, TailwindCSS.
+- **Description**: Built a platform to raise awareness about breast cancer, featuring live medical data via API integration.
+- **Features**: User dashboard, interactive notifications, secure authentication.
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+![Breast Cancer Project](https://via.placeholder.com/600x400) <!-- Replace with your project image -->
 
-#### Top Repositories
+### **2. E-commerce Application**
+- **Tech Stack**: React.js, Context API, TailwindCSS, Axios.
+- **Description**: Designed and developed a fully functional e-commerce app with product management and payment processing.
+- **Features**: Responsive design, interactive UI.
 
+![E-commerce Project](https://via.placeholder.com/600x400) <!-- Replace with your project image -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+---
 
-<br />
-<br />
+## 💡 Technical Skills
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+### **Frontend Development**
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **State Management**
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### **API Integration**
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful_API-000000?style=for-the-badge&logo=api&logoColor=white)
+
+---
+
+## 🎓 Education
+- **Banha University**  
+  Bachelor of Computer Science.
+
+---
+
+## 📜 Certifications
+- **Frontend Development Instructor** - Google Developer Student Club (Aug 2024).
+
+---
+
+## 🌍 Languages
+- Arabic (Native)
+- English (Good)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+
+---
+
+## 🤝 Let's Connect!
+- 📧 Email: [ahmed.ebrahem.ebdelazem@gmail.com](mailto:ahmed.ebrahem.ebdelazem@gmail.com)
+- 💼 LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/your-profile)
+- 🌐 GitHub: [My GitHub Profile](https://github.com/your-username)
+
+---
+
+## 🎉 Fun Fact
+I love contributing to open-source projects and participating in hackathons! 🚀
