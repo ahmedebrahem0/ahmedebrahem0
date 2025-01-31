@@ -87,6 +87,7 @@
 ---
 
 ## 📊 GitHub Stats
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ahmedebrahem0&theme=github)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedebrahem0&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedebrahem0&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedebrahem0&show_icons=true&theme=dark)
