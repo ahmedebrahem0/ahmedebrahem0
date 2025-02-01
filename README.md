@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A6FF&center=true&width=500&lines=Frontend+Developer;" alt="Typing SVG" />
 </p>
 ---
+
 ## 📌 Contact Information
 - 📧 Email: [ahmed.ebrahem.ebdelazem@gmail.com](mailto:ahmed.ebrahem.ebdelazem@gmail.com)
 - 📞 Phone: [+20 127 735 1598](tel:+201277351598)
