@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A6FF&center=true&width=500&lines=Frontend+Developer;" alt="Typing SVG" />
 </p>
+</hr>
 ---
 
 ## 📌 Contact Information
