@@ -82,11 +82,6 @@
 
 ---
 
-## 📜 Certifications
-- **Frontend Development Instructor** - Google Developer Student Club (Aug 2024).
-
----
-
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedebrahem0&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedebrahem0&show_icons=true&theme=radical)
