@@ -53,8 +53,8 @@
 - **Integrated localStorage for persistent product/user data.
 - **Enabled like and cart functionalities with region-based filtering.
   
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)]([https://ahmedebrahem0.github.io/BreastCancerAwareness/](https://ahmedebrahem0.github.io/WeatherApp/))
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/ahmedebrahem0/BreastCancerAwareness](https://github.com/ahmedebrahem0/WeatherApp.git))
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)]([[https://ahmedebrahem0.github.io/BreastCancerAwareness/](https://ahmedebrahem0.github.io/WeatherApp/)](https://ahmedebrahem0.github.io/WeatherApp/))
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)]([[https://github.com/ahmedebrahem0/BreastCancerAwareness](https://github.com/ahmedebrahem0/WeatherApp.git)](https://github.com/ahmedebrahem0/WeatherApp.git))
 
 ### **3. 📊 Product Management System**
 - 🗓️ May 2024 - June 2024
