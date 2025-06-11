@@ -12,7 +12,7 @@
 ## 📌 Contact Information
 - 📧 Email: [ahmed.ebrahem.ebdelazem@gmail.com](mailto:ahmed.ebrahem.ebdelazem@gmail.com)
 - 📞 Phone: [+20 127 735 1598](tel:+201277351598)
-- 💼 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/ahmed-ebrahem-421604235)
+- 💼 LinkedIn: [My LinkedIn Profile]([www.linkedin.com/in/ahmed-ebrahem-421604235](https://www.linkedin.com/in/ahmed-ebrahem-421604235/))
 - 🌐 GitHub: [My GitHub Profile]([https://github.com/ahmedebrahem0](https://github.com/ahmedebrahem0))
 ---
 
@@ -91,7 +91,7 @@
 
 ## 🤝 Let's Connect!
 - 📧 Email: [ahmed.ebrahem.ebdelazem@gmail.com](mailto:ahmed.ebrahem.ebdelazem@gmail.com)
-- 💼 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/ahmed-ebrahem-421604235)
+- 💼 LinkedIn: [My LinkedIn Profile]([www.linkedin.com/in/ahmed-ebrahem-421604235](https://www.linkedin.com/in/ahmed-ebrahem-421604235/))
 - 🌐 GitHub: [My GitHub Profile](https://github.com/your-username)
 
 ---
