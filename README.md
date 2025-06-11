@@ -53,18 +53,26 @@
 - **Integrated localStorage for persistent product/user data.
 - **Enabled like and cart functionalities with region-based filtering.
   
-[![Live Demo]([https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedebrahem0.github.io/BreastCancerAwareness/](https://ahmedebrahem0.github.io/WeatherApp/))
-[![Source Code]([https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedebrahem0/BreastCancerAwareness](https://github.com/ahmedebrahem0/WeatherApp.git))
+[![Live Demo]([https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)]([https://ahmedebrahem0.github.io/BreastCancerAwareness/](https://ahmedebrahem0.github.io/WeatherApp/)](https://ahmedebrahem0.github.io/WeatherApp/))
+[![Source Code]([https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/ahmedebrahem0/BreastCancerAwareness](https://github.com/ahmedebrahem0/WeatherApp.git)](https://github.com/ahmedebrahem0/WeatherApp.git))
 
 ### **3. 📊 Product Management System**
 - 🗓️ May 2024 - June 2024
 - **Built a CRUD-based system using React.js with Redux Toolkit, Tailwind CSS, and Recharts.
 - **Integrated localStorage for persistent product/user data.
 - **Enabled like and cart functionalities with region-based filtering.
-  
-[![Live Demo]([[https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedebrahem0.github.io/BreastCancerAwareness/](https://ahmedebrahem0.github.io/WeatherApp/)](https://ahmedebrahem0.github.io/CRUD_System/))
-[![Source Code]([[https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedebrahem0/BreastCancerAwareness](https://github.com/ahmedebrahem0/WeatherApp.git)](https://github.com/ahmedebrahem0/CRUD_System.git))
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)]([https://ahmedebrahem0.github.io/BreastCancerAwareness/](https://ahmedebrahem0.github.io/CRUD_System/))
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/ahmedebrahem0/BreastCancerAwareness](https://github.com/ahmedebrahem0/CRUD_System.git))
+
+
+### **2. 🎗️ Breast Cancer Awareness Platform**
+- **Tech Stack**: React.js, API Integration, React-Toastify, TailwindCSS.
+- **Description**: Built a platform to raise awareness about breast cancer, featuring live medical data via API integration.
+- **Features**: User dashboard, interactive notifications, secure authentication.
+  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)]([https://ahmedebrahem0.github.io/BreastCancerAwareness/](https://ahmedebrahem0.github.io/AdminDashbord/))
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/ahmedebrahem0/BreastCancerAwareness](https://github.com/ahmedebrahem0/AdminDashbord.git))
 
 ## 💡 Technical Skills
 
