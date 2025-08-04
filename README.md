@@ -34,18 +34,9 @@
 - **Description**: Designed and developed a fully functional e-commerce app with product management and payment processing.
 - **Features**: Responsive design, interactive UI.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedebrahem0.github.io/e-commerce/)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedebrahem0/e-commerce)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedebrahem0.github.io/FreshCart/Home)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedebrahem0/FreshCart.git)
 ---
-
-### **2. 🎗️ Breast Cancer Awareness Platform**
-- **Tech Stack**: React.js, API Integration, React-Toastify, TailwindCSS.
-- **Description**: Built a platform to raise awareness about breast cancer, featuring live medical data via API integration.
-- **Features**: User dashboard, interactive notifications, secure authentication.
-  
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedebrahem0.github.io/BreastCancerAwareness/)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedebrahem0/BreastCancerAwareness)
-
 
 ### **3. ☀️ Weather Forecast Application**
 - 🗓️ May 2024 - June 2024
@@ -53,9 +44,8 @@
 - **Integrated localStorage for persistent product/user data.
 - **Enabled like and cart functionalities with region-based filtering.
   
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedebrahem0.github.io/WeatherApp/)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedebrahem0/WeatherApp.git)
-
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedebrahem0.github.io/weather-App/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedebrahem0/weather-App.git)
 
 ### **3. 📊 Product Management System**
 - 🗓️ May 2024 - June 2024
@@ -65,6 +55,15 @@
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedebrahem0.github.io/CRUD_System/)
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedebrahem0/CRUD_System.git)
+
+
+### **2. 🎗️ Breast Cancer Awareness Platform**
+- **Tech Stack**: React.js, API Integration, React-Toastify, TailwindCSS.
+- **Description**: Built a platform to raise awareness about breast cancer, featuring live medical data via API integration.
+- **Features**: User dashboard, interactive notifications, secure authentication.
+  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedebrahem0.github.io/BreastCancerAwareness/)
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedebrahem0/BreastCancerAwareness)
 
 
 ## 💡 Technical Skills
