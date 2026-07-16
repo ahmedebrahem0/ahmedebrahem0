@@ -3,20 +3,27 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A6FF&center=true&width=600&lines=Frontend+Developer;Next.js+%7C+React+%7C+TypeScript;100%2F100+Lighthouse+Score+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A6FF&center=true&width=600&lines=Frontend+Developer;Next.js+%7C+React+%7C+TypeScript;Currently+%40+BIG+GROUP+%F0%9F%9A%80;98-100%25+Lighthouse+Score+%E2%9C%85" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 📌 Contact Information
 - 📧 Email: [ahmed.ebrahem.ebdelazem@gmail.com](mailto:ahmed.ebrahem.ebdelazem@gmail.com)
-- 📞 Phone: [+20 127 735 1598](tel:+201277351598)
+- 📞 Phone: [+201099491558](tel:+201099491558)
 - 💼 LinkedIn: [linkedin.com/in/ahmedebrahem](https://linkedin.com/in/ahmedebrahem)
 - 🌐 GitHub: [github.com/ahmedebrahem0](https://github.com/ahmedebrahem0)
 
 ---
 
 ## 💻 Work Experience
+
+### **Front-End Developer** ⚡ Current
+#### **BIG GROUP | May 2026 – Present**
+- Developing three production-grade e-commerce platforms for three live brands on a shared backend, each with an independent Next.js and TypeScript codebase — actively serving real customers.
+- Built a unified admin dashboard covering Orders, Products, Users, and Analytics with full sales and purchase flow management across all three brands.
+- Achieved 98–100% Lighthouse score across Performance, Accessibility, Best Practices, and SEO on all production builds.
+- Collaborating within a development team, contributing to code quality, feature delivery, and maintaining consistency across multiple live platforms simultaneously.
 
 ### **Front-End Instructor**
 #### **Google Developer Student Club (GDSC) | Aug 2024 – Dec 2024**
@@ -57,7 +64,32 @@
 
 ---
 
-### **2. 🛒 E-commerce Application**
+### **2. 🛋️ YUMA Homz — Live E-Commerce Platform** 🔴 Production
+- 🗓️ May 2026 – Present | **Company: BIG GROUP**
+- **Tech Stack**: Next.js 16, React 19, TypeScript, Redux Toolkit, RTK Query, Tailwind CSS 4, React Hook Form, Zod, Framer Motion
+- Owned the frontend architecture of a live furniture e-commerce storefront actively serving real customers.
+- Built and stabilized OTP-based authentication with secure session handling and post-login redirect control.
+- Implemented guest-to-user state synchronization for cart and wishlist across login transitions.
+- Structured SEO at application and page level with reusable metadata builders, canonical URLs, and Open Graph.
+- GitHub: Private (NDA)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://yuma-homz.com/)
+
+---
+
+### **3. 🪑 El-Hattab Furniture Store — Live E-Commerce Platform** 🔴 Production
+- 🗓️ May 2026 – Present | **Company: BIG GROUP**
+- **Tech Stack**: Next.js 16, React 19, TypeScript, Redux Toolkit, Tailwind CSS, Axios, Zod, React Hook Form, Framer Motion
+- Architected a scalable feature-based frontend for a production Arabic RTL e-commerce platform.
+- Integrated backend APIs across products, cart, checkout, profile, offers, and rewards with centralized request configuration.
+- Owned responsive UX for Arabic RTL interfaces across mobile navigation, filters, and checkout flow.
+- Built SEO-ready page architecture with dynamic metadata, Open Graph, structured data, and sitemap.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://el-hattab.com/)
+
+---
+
+### **4. 🛒 E-commerce Application**
 - **Tech Stack**: React.js, Context API, Redux, Bootstrap, Axios.
 - Designed and developed a fully functional e-commerce app with product management and payment processing.
 - Features: Responsive design, interactive UI, user authentication.
@@ -67,33 +99,13 @@
 
 ---
 
-### **3. 🎗️ Breast Cancer Awareness Platform**
-- **Tech Stack**: React.js, API Integration, React-Toastify, TailwindCSS.
-- Built a platform to raise awareness about breast cancer, featuring live medical data via API integration.
-- Features: User dashboard, interactive notifications, secure authentication.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedebrahem0.github.io/BreastCancerAwareness/)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedebrahem0/BreastCancerAwareness)
-
----
-
-### **4. 📊 Product Management System**
+### **5. 📊 Product Management System**
 - 🗓️ May 2024 – Jun 2024
 - **Tech Stack**: React.js, Redux Toolkit, Tailwind CSS, Recharts.
 - Built a CRUD-based system with data visualization, localStorage persistence, and region-based filtering.
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedebrahem0.github.io/AdminDashbord/)
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedebrahem0/CRUD_System.git)
-
----
-
-### **5. ☀️ Weather Forecast Application**
-- 🗓️ May 2024 – Jun 2024
-- **Tech Stack**: React.js, Open Weather API, Tailwind CSS.
-- Real-time weather app with dynamic search and location-based updates.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedebrahem0.github.io/weather-App/)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedebrahem0/weather-App.git)
 
 ---
 
