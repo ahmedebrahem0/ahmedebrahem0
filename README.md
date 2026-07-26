@@ -10,9 +10,9 @@
 
 ## 📌 Contact Information
 - 📧 Email: [ahmed.ebrahem.ebdelazem@gmail.com](mailto:ahmed.ebrahem.ebdelazem@gmail.com)
-- 📞 Phone: [+201099491558](tel:+201099491558)
 - 💼 LinkedIn: [linkedin.com/in/ahmedebrahem](https://linkedin.com/in/ahmedebrahem)
 - 🌐 GitHub: [github.com/ahmedebrahem0](https://github.com/ahmedebrahem0)
+- 📞 Phone: [+201099491558](tel:+201099491558)
 
 ---
 
@@ -143,12 +143,6 @@
 ## 🎓 Education
 - **Banha University**
   Bachelor of Computer Science — Graduated 2024
-
----
-
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedebrahem0&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedebrahem0&show_icons=true&theme=radical)
 
 ---
 
