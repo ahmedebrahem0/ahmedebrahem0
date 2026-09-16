@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ahmed Ebrahem! 👋</h1>
 
 <p align="center">
-  <b>Front-End Developer @ BIG GROUP</b> • Next.js • React • TypeScript
+  <b>Front-End Developer @BIG GROUP</b> • Next.js • React • TypeScript
 </p>
 
 <p align="center">
